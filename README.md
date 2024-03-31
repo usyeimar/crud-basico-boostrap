@@ -1,3 +1,2 @@
-# crud-basico
-Crud basico con php y boostrap
-# Yeimar y Markdown
+# Crud basico utilizando Boostrap
+> Crud basico con php y boostrap
